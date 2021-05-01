@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "213161807439",
+    "firebase_url": "https://estudamaua-ea6ad.firebaseio.com",
+    "project_id": "estudamaua-ea6ad",
+    "storage_bucket": "estudamaua-ea6ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213161807439:android:ad8b59685788862913643a",
+        "android_client_info": {
+          "package_name": "com.tdestudante.estuda_maua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213161807439-u1t2idc27cvcr1bk8kmmvc3jgp834n0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSorH9PbR4AB8v9OdAQjLeoQvWzV3oEL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213161807439-u1t2idc27cvcr1bk8kmmvc3jgp834n0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
