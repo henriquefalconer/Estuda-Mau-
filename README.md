@@ -8,4 +8,4 @@
 
 ## Informações gerais
 
-Este projeto foi desenvolvido como trabalho do OpenFab do Instituto Mauá de Tecnologia, em parceria com dois colegas meus. Chegou a ser proposto como um projeto real ao reitor do IMT, porém, com minha saída do IMT, a iniciativa parou por aí.
+Este projeto foi desenvolvido como trabalho do OpenFab do Instituto Mauá de Tecnologia, em parceria com dois colegas meus. Chegou a ser proposto como um projeto real ao reitor do IMT, porém, com minha saída do instituto, a iniciativa parou por aí.
